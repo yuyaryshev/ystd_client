@@ -105,3 +105,4 @@ node_modules
 
 # TernJS port file
 .tern-port
+/yproject_policy_prev_content.json
